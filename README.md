@@ -10,4 +10,4 @@ Bronze: 2 merged pull requests
 Silver: 16 merged pull requests
 Gold: 128 merged pull requests
 
-enjoy
+enjoy!
